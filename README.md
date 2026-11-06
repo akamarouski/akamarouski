@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<img width="640" height="809" alt="image" src="https://github.com/user-attachments/assets/e0deaf22-5e6f-4dfd-8f17-9c467a31315e" />
+
+
 <!--
 **akamarouski/akamarouski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
