@@ -2,6 +2,8 @@
 
 <img width="640" height="809" alt="image" src="https://github.com/user-attachments/assets/e0deaf22-5e6f-4dfd-8f17-9c467a31315e" />
 
+<img width="1280" height="717" alt="image" src="https://github.com/user-attachments/assets/6bcd2b5d-7424-4513-b899-f54e096d761f" />
+
 
 <!--
 **akamarouski/akamarouski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
